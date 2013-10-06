@@ -1,0 +1,79 @@
+body {
+text-shadow: 0 2px 0 rgba(255,255,255, 0.8);
+font-size: 1.6 rem;
+color:#303030;
+font-family: Varela Round, arial, sans-serif;
+}
+
+.information {
+color: #dddddd;
+text-align:center; 
+font-family: Varela Round, arial, sans-serif;
+font-size: 15px;
+letter-spacing: 3 px;
+font-weight: normal;
+font-style: normal;
+text-transform: uppercase;
+}
+
+a{
+font-family: Varela Round, arial, sans-serif;
+font-size: 12px;
+line-height: 1.6em;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-weight: normal;
+font-style: normal;
+text-decoration: none;
+}
+
+a:hover {
+opacity: 0.8;
+}
+
+img.headline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+h2{
+text-transform: uppercase;
+color:black;
+}
+
+th{
+color:black;
+}
+ 
+/* style for photo gallery*/
+div.img
+{
+  margin: 10px;
+  border: 5px solid #E8E8E8 ;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+  opacity:0.5;
+}	
+
+div.img img{
+  display: inline;
+  margin: 5px;
+  border: 1px solid #ffffff;
+}
+
+div.img:hover {
+	opacity: 1.0;
+	border: 5px solid #000000;
+}
+
+div.desc
+{
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 2px;
+  text-transform: uppercase;
+}

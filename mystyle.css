@@ -1,0 +1,21 @@
+body {
+text-shadow: 0 2px 0 rgba(255,255,255, 0.8);
+font-size: 1.6 rem;
+color:#303030 
+}
+
+
+.information {
+text-align:center; 
+font-family: Varela Round, arial, sans-serif;
+font-size: 15px;
+letter-spacing: 3 px;
+font-weight: normal;
+font-style: normal;
+}
+
+img.headline {display: block;
+  margin-left: auto;
+  margin-right: auto;}
+  
+  

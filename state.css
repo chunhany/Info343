@@ -1,0 +1,31 @@
+@media(min-width: 1300px) {
+.mast {
+float:none;
+width:auto;
+}
+
+ul.nav{
+float:left;
+text-align:center;
+width:100%;
+}
+
+li.map{
+display: inline-block;
+}
+
+ul.nav li{
+float:none;
+margin-right: 10%;
+}
+
+h1{
+float:left;
+width:33%;
+}
+
+.figure{
+margin-right: 3%;
+width: 13%;
+}
+}

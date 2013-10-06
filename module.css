@@ -1,0 +1,39 @@
+.information {
+text-align:center; 
+font-family: Varela Round, arial, sans-serif;
+font-size: 15px;
+letter-spacing: 3 px;
+font-weight: normal;
+font-style: normal;
+}
+
+ul.nav a {
+text-transform:uppercase;
+display: block;
+text-align:center;
+padding: 1em 0.5em 3em;
+margin-bottom; -1rem;
+}
+
+ul.nav i{
+font: normal lrem Baskerville;
+display: block;
+letter-spacing: 0.05 rem;
+}
+
+
+ul.nav {
+list-style: none;
+border-top: 1px sold #888583;
+margin: 2rem auto 0;
+width: 67%;
+}
+
+ul.nav  {
+background-position: 50% 100%;
+}
+
+a:hover{
+color: #111111;
+border-bottom-color: #dddddd;
+}
