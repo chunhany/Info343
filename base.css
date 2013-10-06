@@ -37,6 +37,12 @@ img.headline {
   margin-right: auto;
   }
   
+img.photohong{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+}
+  
 h2{
 text-transform: uppercase;
 color:black;

@@ -37,3 +37,14 @@ a:hover{
 color: #111111;
 border-bottom-color: #dddddd;
 }
+
+p.facts, ul.facts {
+	display: block;
+	text-align: left;
+	font-family: Georgia, serif;
+	font-size: 13px;
+	line-height: 1.8em;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+}

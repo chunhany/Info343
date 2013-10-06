@@ -1,0 +1,36 @@
+div.upper-logo{
+text-align: center;
+float:none;
+width:auto;
+}
+
+.home-photo{
+text-align:center;
+float:none;
+width:auto;
+}
+
+.navigation-bar{
+float:left;
+width:100%;
+}
+
+.inner {
+margin: 0 auto;
+width: 100%;
+float:none;
+}
+
+.mast{
+ float:left;
+ width:100%; /*it will automatically adjust when u minimize the window b/c of the percentage*/
+}
+
+.intro, .main, .footer {
+float:right;
+width: 67%; /*1-x*/
+}
+
+.intro{
+margin-top: 117px;
+}
