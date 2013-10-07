@@ -28,7 +28,7 @@ width: 13%;
 }
 
 @media(max-width: 600px){
-.mast, .intro, .main, .footer{
+.mast,, .main,{
 float:none;
 width:auto;
 }
@@ -51,5 +51,5 @@ ul.nav li {
 float:none;
 width:100%;
 }
-}
+
 }

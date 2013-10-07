@@ -4,6 +4,22 @@ float:none;
 width:auto;
 }
 
+div.bio{
+text-align: left;
+float:none;
+width:100%;
+}
+
+div.halloween-photo{
+text-align: center;
+float;none;
+width:100%
+}
+
+div.construction{
+text-align: center;
+}
+
 .home-photo{
 text-align:center;
 float:none;
@@ -26,11 +42,7 @@ float:none;
  width:100%; /*it will automatically adjust when u minimize the window b/c of the percentage*/
 }
 
-.intro, .main, .footer {
+.main {
 float:right;
 width: 67%; /*1-x*/
-}
-
-.intro{
-margin-top: 117px;
 }

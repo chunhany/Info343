@@ -11,8 +11,7 @@ ul.nav a {
 text-transform:uppercase;
 display: block;
 text-align:center;
-padding: 1em 0.5em 3em;
-margin-bottom; -1rem;
+padding: 2em 0.5em 10em;
 }
 
 ul.nav i{
@@ -27,16 +26,9 @@ list-style: none;
 border-top: 1px sold #888583;
 margin: 2rem auto 0;
 width: 67%;
-}
-
-ul.nav  {
 background-position: 50% 100%;
 }
 
-a:hover{
-color: #111111;
-border-bottom-color: #dddddd;
-}
 
 p.facts, ul.facts {
 	display: block;
@@ -47,4 +39,53 @@ p.facts, ul.facts {
 	text-transform: none;
 	font-weight: normal;
 	font-style: normal;
+}
+
+
+li.map:hover {
+opacity: 0.4;
+}
+
+a.instagram:hover{
+opacity: 0.4;
+}
+
+img.headline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+
+ 
+/* style for photo gallery*/
+div.img
+{
+  margin: 10px;
+  border: 5px solid #E8E8E8 ;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+  opacity:0.5;
+}	
+
+div.img img{
+  display: inline;
+  margin: 5px;
+  border: 1px solid #ffffff;
+}
+
+div.img:hover {
+	opacity: 1.0;
+	border: 5px solid #000000
+}
+
+div.desc
+{
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 2px;
+  text-transform: uppercase;
 }
